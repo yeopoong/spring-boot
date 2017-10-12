@@ -1,3 +1,2 @@
-# spring-boot
-
-Spring Boot에서 로깅 설정
+# kyun's github blog
+used [nangka's jekyll github](https://github.com/rmsubekti/nangka)
